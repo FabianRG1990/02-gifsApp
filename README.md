@@ -30,4 +30,5 @@ https://developers.giphy.com/
 Angular 15.2.0
 </p>
 
-# 02-aplicacionGifs
+
+# 02-gifsApp
